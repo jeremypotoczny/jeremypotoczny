@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeremypotoczny
-- 👀 I’m interested in web analysis, tag Management, dashboarding and AI
+- 👀 I’m interested in web analysis, tag management, dashboarding and AI
 - 🌱 I’m currently learning JavaScript, SQL, Python
 - 📫 How to reach me : https://www.linkedin.com/in/jeremy-potoczny/
 
